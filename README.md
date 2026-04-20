@@ -39,6 +39,7 @@ Karen submits a support request by selecting “Open New Ticket”, completing t
 Image 1: End-user view displaying the “Open New Ticket” option
 
 Image 2: Completed form with contact information and issue description
+
 Image 3: Confirmation of successful ticket creation
 
 </p>
