@@ -54,7 +54,7 @@ Triage (John – Help Desk Agent)
   
 John reviews the newly created ticket and performs initial triage in the agent portal.
   
-<h1>Actions performed:</h1>
+Actions performed:
   
 -Reviewed ticket details and prior updates
 
@@ -66,7 +66,7 @@ John reviews the newly created ticket and performs initial triage in the agent p
 
 Note: As a Tier 1 agent, John does not have sufficient access to resolve the issue and escalates accordingly.
 
-<h1>Escalation Details</h1>
+Escalation Details
 
 -Priority escalated to Sev-A (Emergency / Business Critical)
 -Ticket reassigned to System Administration (Sysadmin) team
