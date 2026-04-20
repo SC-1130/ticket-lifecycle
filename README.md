@@ -54,11 +54,16 @@ Triage (John – Help Desk Agent)
   
 John reviews the newly created ticket and performs initial triage in the agent portal.
   
-<h2>Actions performed:<h2>
+<h2>Actions performed:
+  
 Reviewed ticket details and prior updates
+
 Updated priority, department, SLA, and help topic
+
 Added contextual notes to support escalation
+
 Determined issue requires escalation beyond Tier 1 support
+
 Note: As a Tier 1 agent, John does not have sufficient access to resolve the issue and escalates accordingly.
 
 Escalation Details
