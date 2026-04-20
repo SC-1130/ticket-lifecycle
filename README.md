@@ -115,7 +115,7 @@ Confirmation screen showing successful ticket closure.
 
   
 
-<h1>Scenario 2</h1>  Adobe Reader Service Disruption Image 1
+Image 1<h1>Scenario 2</h1>  Adobe Reader Service Disruption 
 
 End User (Ken) – Incident Report
   
