@@ -27,16 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-  <img width="1376" height="768" alt="Gemini_Generated_Image_pkais2pkais2pkai" src="https://github.com/user-attachments/assets/175bde63-38d7-4844-bfa5-b27f38410691" />
 
 </p>
 <p>
@@ -67,6 +58,13 @@ Step 1: John reviews ticket details and prior updates
 Step 2: The ticket is escalated to Sev-A (Emergency / Business Critical) and categorized appropriately
 Step 3: The ticket is reassigned to the System Administration team
 Result: The incident is prioritized correctly and routed for immediate handling, ensuring minimal business impact
+
+
+</p>
+<br />
+
+<p>
+  <img width="1376" height="768" alt="Gemini_Generated_Image_pkais2pkais2pkai" src="https://github.com/user-attachments/assets/175bde63-38d7-4844-bfa5-b27f38410691" />
 
 </p>
 <br />
