@@ -35,6 +35,7 @@ This tutorial outlines a complete ticket  lifecycle, including ticket creation, 
 Scenario 1 – Business-Critical System Issue
 End User (Karen) – Ticket Submission
 Karen submits a support request by selecting “Open New Ticket”, completing the required form fields, and receiving confirmation that the ticket has been successfully created, images from left to right.
+  
 Image 1: End-user view displaying the “Open New Ticket” option
 Image 2: Completed form with contact information and issue description
 Image 3: Confirmation of successful ticket creation
