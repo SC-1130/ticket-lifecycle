@@ -72,7 +72,7 @@ Escalation Details
 -Ticket reassigned to System Administration (Sysadmin) team
 -Proper categorization applied to ensure correct routing
 
-<h1>Result:</h1> The incident is prioritized correctly and routed for immediate attention to minimize business impact.
+Result: The incident is prioritized correctly and routed for immediate attention to minimize business impact.
 </p>
 <br />
 
