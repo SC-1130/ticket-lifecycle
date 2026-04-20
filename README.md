@@ -51,8 +51,10 @@ Image 3: Confirmation of successful ticket creation
 </p>
 <p>
 Triage (John – Help Desk Agent)
+  
 John reviews the newly created ticket and performs initial triage in the agent portal.
-Actions performed:
+  
+<h2>Actions performed:<h2>
 Reviewed ticket details and prior updates
 Updated priority, department, SLA, and help topic
 Added contextual notes to support escalation
