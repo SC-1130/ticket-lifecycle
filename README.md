@@ -54,7 +54,7 @@ Triage (John – Help Desk Agent)
   
 John reviews the newly created ticket and performs initial triage in the agent portal.
   
-<h2>Actions performed:
+Actions performed:
   
 Reviewed ticket details and prior updates
 
