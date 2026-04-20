@@ -115,8 +115,9 @@ Confirmation screen showing successful ticket closure.
 
   
 
-Image 1<h1>Scenario 2</h1>  Adobe Reader Service Disruption 
+<h1>Scenario 2</h1>  Adobe Reader Service Disruption 
 
+Image 1
 End User (Ken) – Incident Report
   
 Ken from the Accounting Department reports an issue with Adobe Reader that is preventing the team from completing a critical audit.
