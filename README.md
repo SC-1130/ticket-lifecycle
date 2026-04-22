@@ -69,7 +69,7 @@ Image 2: Actions performed
 
 ● Proper categorization applied to ensure correct routing
 
-Image 3:Result 
+Image 3: Result 
 
 ● The incident is prioritized correctly and routed for immediate attention to minimize business impact.
 </p>
