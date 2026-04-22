@@ -135,36 +135,49 @@ Image 1: (As Ken) from the Accounting Department reports an issue with Adobe Rea
 
 Image 2: John reviews the ticket and identifies missing or incomplete information.
 
+
 Image 3: Actions Taken
+
 ● Contacted end user for additional details
+
 ● Updated priority to High
+
 ● Assigned department as Support
+
 ● Set SLA to Sev-B
+
 ● Updated Help Topic to Personal Computer Issue
 
-Image 4:
-Investigation and Coordination
-John escalates the issue to the appropriate administrative support group for deeper analysis.
+
+Image 4:Investigation and Coordination
+
+●John escalates the issue to the appropriate administrative support group for deeper analysis.
 
 ● Engages admin group for technical investigation
+
 ● Monitors progress and updates ticket accordingly
+
 ● Communicates status updates back to end user
 
 
-Image 5:
-Resolution and Closure
-Once the issue is resolved:
-
+Image 5: Resolution and Closure 
+   
 ● Ticket status changed to Closed
+
 ● Resolution note added summarizing outcome
+
 ● End user confirmation obtained prior to closure
 
 Key Outcomes
 
 ● Initial incidents were triaged and escalated by severity. In the second scenario, triage was not required; John’s access was updated to allow him to work the ticket. 
+
 ● SLA classifications ensured proper prioritization
+
 ● Cross-team collaboration enabled timely resolution
+
 ● End users were kept informed throughout the lifecycle
+
 ● Tickets were documented and closed with proper root cause or resolution notes
 
 
