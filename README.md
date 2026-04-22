@@ -71,7 +71,7 @@ Image 2: Actions performed
 
 Image 3:Result 
 
-●The incident is prioritized correctly and routed for immediate attention to minimize business impact.
+● The incident is prioritized correctly and routed for immediate attention to minimize business impact.
 </p>
 <br />
 
@@ -104,7 +104,7 @@ Image 3: Actions performed
 
 ● Ticket status updated to Closed
 
-- Root cause analysis documented in ticket notes
+● Root cause analysis documented in ticket notes
 
 ● Resolution confirmed with end user prior to closure
 
