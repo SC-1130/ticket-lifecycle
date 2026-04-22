@@ -57,21 +57,21 @@ Step 1: John reviews the newly created ticket and performs initial triage in the
 
 Step 2: Actions performed 
 
-    ● Updated priority, department, SLA, and help topic
+  ● Updated priority, department, SLA, and help topic
 
-    ● Added contextual notes to support escalation
+  ● Added contextual notes to support escalation
 
-    ● Determined issue requires escalation beyond Tier 1 support
+  ● Determined issue requires escalation beyond Tier 1 support
 
-    ● Priority escalated to Sev-A (Emergency / Business Critical)
+  ● Priority escalated to Sev-A (Emergency / Business Critical)
 
-    ● Ticket reassigned to System Administration (Sysadmin) team
+  ● Ticket reassigned to System Administration (Sysadmin) team
 
-    ● Proper categorization applied to ensure correct routing
+  ● Proper categorization applied to ensure correct routing
 
 Step 3: Result 
 
-    ● The incident is prioritized correctly and routed for immediate attention to minimize business impact.
+  ● The incident is prioritized correctly and routed for immediate attention to minimize business impact.
 </p>
 <br />
 
@@ -84,31 +84,31 @@ Step 1, Resolution: (As Jane – System Administrator) reviews the ticket and be
  
 Step 2: Pre-Investigation
 
-    ● End user (Karen) already contacted
+  ● End user (Karen) already contacted
 
-    ● Ticket classified as Sev-A (Emergency)
+  ● Ticket classified as Sev-A (Emergency)
 
-    ● Help Topic identified as Business-Critical Issue
+  ● Help Topic identified as Business-Critical Issue
 
-    ● SLA priority confirmed as highest severity level
+  ● SLA priority confirmed as highest severity level
 
 Remediation: Jane identifies the issue as a server configuration-related failure.
 
 Step 3: Actions performed
 
-    ● Posts diagnostic update identifying root cause
+  ● Posts diagnostic update identifying root cause
 
-    ● Restarts affected server to restore functionality
+  ● Restarts affected server to restore functionality
 
-    ● Contacts end user to confirm service restoration
+  ● Contacts end user to confirm service restoration
 
-    ● Ticket status updated to Closed
+  ● Ticket status updated to Closed
 
-    ● Root cause analysis documented in ticket notes
+  ● Root cause analysis documented in ticket notes
 
-    ● Resolution confirmed with end user prior to closure
+  ● Resolution confirmed with end user prior to closure
 
-    ● Ticket Closure Confirmation (bottom)
+  ● Ticket Closure Confirmation (bottom)
 
 Confirmation screen showing successful ticket closure.
 
@@ -138,35 +138,35 @@ Step 2: John reviews the ticket and identifies missing or incomplete information
 
 Step 3: Actions Taken
 
-    ● Contacted end user for additional details
+  ● Contacted end user for additional details
 
-    ● Updated priority to High
+  ● Updated priority to High
 
-    ● Assigned department as Support
+  ● Assigned department as Support
 
-    ● Set SLA to Sev-B
+  ● Set SLA to Sev-B
 
-    ● Updated Help Topic to Personal Computer Issue
+  ● Updated Help Topic to Personal Computer Issue
 
 
 Step 4: Investigation and Coordination
 
-    ●  John escalates the issue to the appropriate administrative support group for deeper analysis.
+  ●  John escalates the issue to the appropriate administrative support group for deeper analysis.
 
-    ● Engages admin group for technical investigation
+  ● Engages admin group for technical investigation
 
-    ● Monitors progress and updates ticket accordingly
+  ● Monitors progress and updates ticket accordingly
 
-    ● Communicates status updates back to end user
+  ● Communicates status updates back to end user
 
 
 Step 5: Resolution and Closure 
    
-    ● Ticket status changed to Closed
+  ● Ticket status changed to Closed
 
-    ● Resolution note added summarizing outcome
+  ● Resolution note added summarizing outcome
 
-    ● End user confirmation obtained prior to closure
+  ● End user confirmation obtained prior to closure
 
 Key Outcomes
 
