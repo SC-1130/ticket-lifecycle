@@ -57,19 +57,21 @@ Image 1: John reviews the newly created ticket and performs initial triage in th
 
 Image 2: Actions performed 
 
--Updated priority, department, SLA, and help topic
+● Updated priority, department, SLA, and help topic
 
--Added contextual notes to support escalation
+● Added contextual notes to support escalation
 
--Determined issue requires escalation beyond Tier 1 support
+● Determined issue requires escalation beyond Tier 1 support
 
--Priority escalated to Sev-A (Emergency / Business Critical)
--Ticket reassigned to System Administration (Sysadmin) team
--Proper categorization applied to ensure correct routing
+● Priority escalated to Sev-A (Emergency / Business Critical)
+
+● Ticket reassigned to System Administration (Sysadmin) team
+
+● Proper categorization applied to ensure correct routing
 
 Image 3:Result 
 
--The incident is prioritized correctly and routed for immediate attention to minimize business impact.
+●The incident is prioritized correctly and routed for immediate attention to minimize business impact.
 </p>
 <br />
 
@@ -78,36 +80,35 @@ Image 3:Result
 
 </p>
 <p>
-Resolution (As Jane – System Administrator): reviews the ticket and begins investigation using John’s notes.
+Image 1, Resolution: (As Jane – System Administrator) reviews the ticket and begins investigation using John’s notes.
 
--Pre-Investigation Summary
+Image 2: Pre-Investigation
 
--End user (Karen) already contacted
+● End user (Karen) already contacted
 
--Ticket classified as Sev-A (Emergency)
+● Ticket classified as Sev-A (Emergency)
 
--Help Topic identified as Business-Critical Issue
+● Help Topic identified as Business-Critical Issue
 
--SLA priority confirmed as highest severity level
+● SLA priority confirmed as highest severity level
 
-Remediation
-
-Jane identifies the issue as a server configuration-related failure.
+Remediation: Jane identifies the issue as a server configuration-related failure.
 
 Image 3: Actions performed
 
--Posts diagnostic update identifying root cause
+● Posts diagnostic update identifying root cause
 
--Restarts affected server to restore functionality
+● Restarts affected server to restore functionality
 
--Contacts end user to confirm service restoration
+● Contacts end user to confirm service restoration
 
-Closure
--Ticket status updated to Closed
--Root cause analysis documented in ticket notes
--Resolution confirmed with end user prior to closure
+● Ticket status updated to Closed
 
-Image 3: Ticket Closure Confirmation (bottom)
+- Root cause analysis documented in ticket notes
+
+● Resolution confirmed with end user prior to closure
+
+● Ticket Closure Confirmation (bottom)
 
 Confirmation screen showing successful ticket closure.
 
@@ -135,36 +136,36 @@ Image 1: (As Ken) from the Accounting Department reports an issue with Adobe Rea
 Image 2: John reviews the ticket and identifies missing or incomplete information.
 
 Image 3: Actions Taken
--Contacted end user for additional details
--Updated priority to High
--Assigned department as Support
--Set SLA to Sev-B
--Updated Help Topic to Personal Computer Issue
+● Contacted end user for additional details
+● Updated priority to High
+● Assigned department as Support
+● Set SLA to Sev-B
+● Updated Help Topic to Personal Computer Issue
 
 Image 4:
 Investigation and Coordination
 John escalates the issue to the appropriate administrative support group for deeper analysis.
 
--Engages admin group for technical investigation
--Monitors progress and updates ticket accordingly
--Communicates status updates back to end user
+● Engages admin group for technical investigation
+● Monitors progress and updates ticket accordingly
+● Communicates status updates back to end user
 
 
 Image 5:
 Resolution and Closure
 Once the issue is resolved:
 
--Ticket status changed to Closed
--Resolution note added summarizing outcome
--End user confirmation obtained prior to closure
+● Ticket status changed to Closed
+● Resolution note added summarizing outcome
+● End user confirmation obtained prior to closure
 
 Key Outcomes
 
--Initial incidents were triaged and escalated by severity. In the second scenario, triage was not required; John’s access was updated to allow him to work the ticket. 
--SLA classifications ensured proper prioritization
--Cross-team collaboration enabled timely resolution
--End users were kept informed throughout the lifecycle
--Tickets were documented and closed with proper root cause or resolution notes
+● Initial incidents were triaged and escalated by severity. In the second scenario, triage was not required; John’s access was updated to allow him to work the ticket. 
+● SLA classifications ensured proper prioritization
+● Cross-team collaboration enabled timely resolution
+● End users were kept informed throughout the lifecycle
+● Tickets were documented and closed with proper root cause or resolution notes
 
 
 
