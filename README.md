@@ -33,7 +33,7 @@ This tutorial outlines a complete ticket  lifecycle, including ticket creation, 
 </p>
 <p>
 Scenario 1 – Business-Critical System Issue
-End User (Karen) – Ticket Submission
+End User (As Karen) – Ticket Submission
 Karen submits a support request by selecting “Open New Ticket”, completing the required form fields, and receiving confirmation that the ticket has been successfully created, images from left to right.
   
 Image 1: End-user view displaying the “Open New Ticket” option
@@ -50,7 +50,7 @@ Image 3: Confirmation of successful ticket creation
 
 </p>
 <p>
-Triage (John – Help Desk Agent)
+Triage (As John – Help Desk Agent)
   
 Image 1: John reviews the newly created ticket and performs initial triage in the agent portal.
   
@@ -78,7 +78,7 @@ Image 3:Result
 
 </p>
 <p>
-Resolution (Jane – System Administrator): reviews the ticket and begins investigation using John’s notes.
+Resolution (As Jane – System Administrator): reviews the ticket and begins investigation using John’s notes.
 
 -Pre-Investigation Summary
 
@@ -126,11 +126,11 @@ Confirmation screen showing successful ticket closure.
 
 
   
-Image 1: Ken from the Accounting Department reports an issue with Adobe Reader that is preventing the team from completing a critical audit.
+Image 1: (As Ken) from the Accounting Department reports an issue with Adobe Reader that is preventing the team from completing a critical audit.
 
 
 
-(John – Help Desk)
+(As John – Help Desk)
 
 Image 2: John reviews the ticket and identifies missing or incomplete information.
 
