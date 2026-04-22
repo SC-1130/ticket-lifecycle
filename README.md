@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-Overview
+
 This tutorial outlines a complete ticket  lifecycle, including ticket creation, triage, escalation, resolution, and closure. It highlights collaboration between end users, help desk agents, and system administrators to ensure timely resolution and minimal business disruption.. <br />
 
 
