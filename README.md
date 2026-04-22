@@ -16,7 +16,7 @@ This tutorial outlines a complete ticket  lifecycle, including ticket creation, 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -52,11 +52,10 @@ Image 3: Confirmation of successful ticket creation
 <p>
 Triage (John – Help Desk Agent)
   
-John reviews the newly created ticket and performs initial triage in the agent portal.
+Image 1: John reviews the newly created ticket and performs initial triage in the agent portal.
   
-Actions performed:
-  
--Reviewed ticket details and prior updates
+
+Image 2: Actions performed 
 
 -Updated priority, department, SLA, and help topic
 
@@ -64,15 +63,13 @@ Actions performed:
 
 -Determined issue requires escalation beyond Tier 1 support
 
-Note: As a Tier 1 agent, John does not have sufficient access to resolve the issue and escalates accordingly.
-
-Escalation Details
-
 -Priority escalated to Sev-A (Emergency / Business Critical)
 -Ticket reassigned to System Administration (Sysadmin) team
 -Proper categorization applied to ensure correct routing
 
-Result: The incident is prioritized correctly and routed for immediate attention to minimize business impact.
+Image 3:Result 
+
+-The incident is prioritized correctly and routed for immediate attention to minimize business impact.
 </p>
 <br />
 
@@ -81,27 +78,37 @@ Result: The incident is prioritized correctly and routed for immediate attention
 
 </p>
 <p>
-Resolution (Jane – System Administrator)
-Jane reviews the ticket and begins investigation using John’s notes.
-Pre-Investigation Summary
-End user (Karen) already contacted
-Ticket classified as Sev-A (Emergency)
-Help Topic identified as Business-Critical Issue
-SLA priority confirmed as highest severity level
+Resolution (Jane – System Administrator): reviews the ticket and begins investigation using John’s notes.
 
-Investigation and Remediation
+-Pre-Investigation Summary
+
+-End user (Karen) already contacted
+
+-Ticket classified as Sev-A (Emergency)
+
+-Help Topic identified as Business-Critical Issue
+
+-SLA priority confirmed as highest severity level
+
+Remediation
+
 Jane identifies the issue as a server configuration-related failure.
-Actions performed:
-Posts diagnostic update identifying root cause
-Restarts affected server to restore functionality
-Contacts end user to confirm service restoration
+
+Image 3: Actions performed
+
+-Posts diagnostic update identifying root cause
+
+-Restarts affected server to restore functionality
+
+-Contacts end user to confirm service restoration
 
 Closure
-Ticket status updated to Closed
-Root cause analysis documented in ticket notes
-Resolution confirmed with end user prior to closure
+-Ticket status updated to Closed
+-Root cause analysis documented in ticket notes
+-Resolution confirmed with end user prior to closure
 
-Figure: Ticket Closure Confirmation
+Image 3: Ticket Closure Confirmation (bottom)
+
 Confirmation screen showing successful ticket closure.
 
 </p>
@@ -117,26 +124,24 @@ Confirmation screen showing successful ticket closure.
 
 <h1>Scenario 2</h1>  Adobe Reader Service Disruption 
 
-Image 1
-End User (Ken) – Incident Report
+
   
-Ken from the Accounting Department reports an issue with Adobe Reader that is preventing the team from completing a critical audit.
+Image 1: Ken from the Accounting Department reports an issue with Adobe Reader that is preventing the team from completing a critical audit.
 
 
-Image 2
-Triage (John – Help Desk)
 
-Image 3
-John reviews the ticket and identifies missing or incomplete information.
+(John – Help Desk)
 
-Actions Taken:
+Image 2: John reviews the ticket and identifies missing or incomplete information.
+
+Image 3: Actions Taken
 -Contacted end user for additional details
 -Updated priority to High
 -Assigned department as Support
 -Set SLA to Sev-B
 -Updated Help Topic to Personal Computer Issue
 
-Image 4
+Image 4:
 Investigation and Coordination
 John escalates the issue to the appropriate administrative support group for deeper analysis.
 
@@ -145,7 +150,7 @@ John escalates the issue to the appropriate administrative support group for dee
 -Communicates status updates back to end user
 
 
-Image 5
+Image 5:
 Resolution and Closure
 Once the issue is resolved:
 
@@ -155,15 +160,13 @@ Once the issue is resolved:
 
 Key Outcomes
 
--Both incidents were triaged and escalated appropriately based on severity
+-Initial incidents were triaged and escalated by severity. In the second scenario, triage was not required; John’s access was updated to allow him to work the ticket. 
 -SLA classifications ensured proper prioritization
 -Cross-team collaboration enabled timely resolution
 -End users were kept informed throughout the lifecycle
 -Tickets were documented and closed with proper root cause or resolution notes
 
-<h1>Summary</h1>
 
-This tutorial demonstrates a structured and efficient IT Service Management workflow, highlighting effective incident handling from initial user report through final resolution. It reflects real-world practices in help desk operations, escalation procedures, and system administration response.
 
   
 </p>
