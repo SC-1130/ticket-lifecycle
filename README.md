@@ -36,11 +36,11 @@ Scenario 1 – Business-Critical System Issue
 End User (As Karen) – Ticket Submission
 Karen submits a support request by selecting “Open New Ticket”, completing the required form fields, and receiving confirmation that the ticket has been successfully created.
   
-Image 1: End-user view displaying the “Open New Ticket” option
+Step 1: End-user view displaying the “Open New Ticket” option
 
-Image 2: Completed form with contact information and issue description
+Step 2: Completed form with contact information and issue description
 
-Image 3: Confirmation of successful ticket creation
+Step 3: Confirmation of successful ticket creation
 
 </p>
 <br />
@@ -52,10 +52,10 @@ Image 3: Confirmation of successful ticket creation
 <p>
 Triage (As John – Help Desk Agent)
   
-Image 1: John reviews the newly created ticket and performs initial triage in the agent portal.
+Step 1: John reviews the newly created ticket and performs initial triage in the agent portal.
   
 
-Image 2: Actions performed 
+Step 2: Actions performed 
 
 ● Updated priority, department, SLA, and help topic
 
@@ -69,7 +69,7 @@ Image 2: Actions performed
 
 ● Proper categorization applied to ensure correct routing
 
-Image 3: Result 
+Step 3: Result 
 
 ● The incident is prioritized correctly and routed for immediate attention to minimize business impact.
 </p>
@@ -80,9 +80,9 @@ Image 3: Result
 
 </p>
 <p>
-Image 1, Resolution: (As Jane – System Administrator) reviews the ticket and begins investigation using John’s notes.
-
-Image 2: Pre-Investigation
+Step 1, Resolution: (As Jane – System Administrator) reviews the ticket and begins investigation using John’s notes.
+ 
+Step 2: Pre-Investigation
 
 ● End user (Karen) already contacted
 
@@ -94,7 +94,7 @@ Image 2: Pre-Investigation
 
 Remediation: Jane identifies the issue as a server configuration-related failure.
 
-Image 3: Actions performed
+Step 3: Actions performed
 
 ● Posts diagnostic update identifying root cause
 
@@ -127,16 +127,16 @@ Confirmation screen showing successful ticket closure.
 
 
   
-Image 1: (As Ken) from the Accounting Department reports an issue with Adobe Reader that is preventing the team from completing a critical audit.
+Step 1: (As Ken) from the Accounting Department reports an issue with Adobe Reader that is preventing the team from completing a critical audit.
 
 
 
 (As John – Help Desk)
 
-Image 2: John reviews the ticket and identifies missing or incomplete information.
+Step 2: John reviews the ticket and identifies missing or incomplete information.
 
 
-Image 3: Actions Taken
+Step 3: Actions Taken
 
 ● Contacted end user for additional details
 
@@ -149,7 +149,7 @@ Image 3: Actions Taken
 ● Updated Help Topic to Personal Computer Issue
 
 
-Image 4:Investigation and Coordination
+Step 4:Investigation and Coordination
 
 ●John escalates the issue to the appropriate administrative support group for deeper analysis.
 
@@ -160,7 +160,7 @@ Image 4:Investigation and Coordination
 ● Communicates status updates back to end user
 
 
-Image 5: Resolution and Closure 
+Step 5: Resolution and Closure 
    
 ● Ticket status changed to Closed
 
